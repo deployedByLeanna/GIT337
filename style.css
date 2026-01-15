@@ -1,0 +1,6 @@
+/*//Add a style rule for your <h1> with at least 3 declarations*/
+h1 {
+    color: #4A90E2;
+    font-size: 36px;
+    text-align: center;
+}
